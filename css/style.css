@@ -1,0 +1,17 @@
+body
+{
+    font-size:x-large;
+    color:blue;
+    background-image: url(https://4kwallpapers.com/images/walls/thumbs_3t/2224.png);
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-attachment: fixed;
+
+}
+h1
+{
+    margin-top: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
